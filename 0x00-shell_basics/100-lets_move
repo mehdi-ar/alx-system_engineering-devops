@@ -1,0 +1,2 @@
+#!/bin/ach
+mv [[:upper:]]* /tmp/u
