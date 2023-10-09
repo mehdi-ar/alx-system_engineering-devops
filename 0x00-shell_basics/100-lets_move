@@ -1,2 +1,2 @@
-#!/bin/ach
+#!/bin/bach
 mv [[:upper:]]* /tmp/u
